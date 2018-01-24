@@ -12,7 +12,7 @@ This Sample code can be used with Raspberry Pi.
 
 Hardware needed to interface ADC121C_MQ4 Sensor With Raspberry Pi : 
 
-1. <a href="https://store.ncd.io/product/mq-4-methane-natural-gas-sensor-adc121c-12-bit-adc-i2c-mini-module/">ADC121C_MQ4 NH3 Amonia Benzene Alcohol Gas Sensor</a>
+1. <a href="https://store.ncd.io/product/mq-4-methane-natural-gas-sensor-adc121c-12-bit-adc-i2c-mini-module/">ADC121C_MQ4 Methane Gas Sensor</a>
 
 2. <a href="https://store.ncd.io/product/i2c-shield-for-raspberry-pi-3-pi2-with-outward-facing-i2c-port-terminates-over-hdmi-port/">Raspberry Pi I2C Shield</a>
 
