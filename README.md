@@ -2,6 +2,7 @@
 [![ADC121C_MQ4](ADC121C_I2CGAS_MQ4.png)](https://store.ncd.io/product/mq-4-methane-natural-gas-sensor-adc121c-12-bit-adc-i2c-mini-module/).
 
 # ADC121C_MQ4
+
 The MQ-4 is capable of sensing methane or natural gas air concentration levels between 200 to 10000ppm. The ideal sensing condition for the MQ4 is 20°C ±2°C at 65% ±5% humidity.
 This Device is available from www.ncd.io 
 
@@ -23,12 +24,10 @@ Hardware needed to interface ADC121C_MQ4 Sensor With Raspberry Pi :
 Download and install smbus library on Raspberry pi. Steps to install smbus are provided at:
 
 https://pypi.python.org/pypi/smbus-cffi/0.5.1
+
 Download (or git pull) the code in pi. Run the program.
 
 ```cpp
-
 $> python ADC121C_MQ4.py
-
 ```
-
 The lib is a sample library, you will need to calibrate the sensor according to your application requirement.
